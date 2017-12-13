@@ -2,7 +2,7 @@
 *{
 }
 #wrapper{
- height: 607px;
+ height: 610px;
  padding: 15px;
  width: 970px;
  background-color: #1D355C;
@@ -12,13 +12,13 @@
  border-radius: 10px;
  background: #CC323B;
  width: 945px;
- height: 35px;
+ height: 30px;
  vertical-align: middle;
  padding: 15px;
 }
 #navigation{
  height: 200px;
- border-radius: 20px;
+ border-radius: 15px;
  margin-top: 20px;
  width: 170px;
  display: inline-block;
